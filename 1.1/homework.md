@@ -15,5 +15,5 @@ Define the following terms:
 
 ### Recommended resources
 - [Wikipedia page on Sets](https://en.wikipedia.org/wiki/Set_(mathematics)) for sets basics
-- `Basic concepts and notation' section on [Wikipedia page on Set Theory](https://en.wikipedia.org/wiki/Set_theory) for set operations basics
+- 'Basic concepts and notation' section on [Wikipedia page on Set Theory](https://en.wikipedia.org/wiki/Set_theory) for set operations basics
 - [Set Calculator](https://setcalculator.com/) for quick experiments and visualisations
