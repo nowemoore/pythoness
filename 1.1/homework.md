@@ -1,7 +1,5 @@
 # Homework Assignment 1.1
 
-## Python Basics and Data Types
-
 ### Due Date: Next Class
 
 ### Instructions
