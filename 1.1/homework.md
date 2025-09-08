@@ -1,13 +1,16 @@
 # Homework Assignment 1.1
 
-### Due Date: Next Class
+### Due Date: before class on 09/10/2025
 
 ### Instructions
-Complete the following tasks and submit your `.py` file:
 
-1. **Variables and Types**
-   - Create variables of different types (string, int, float, boolean)
-   - Print each variable with its type [Google](https://google.com)
+Define the following terms:
+- _set_
+- _union_
+- _intersection_
+- _complement_
+- _difference_
+- _symmetric difference_
 
 2. **Lists and Operations**
    - Create a list with 5 elements
