@@ -1,8 +1,8 @@
 # Domáca úloha 1.1
 
-## Deadline: pred hodinou 09/10/2025
+## 📆 Deadline: pred hodinou 09/10/2025
 
-## Zadanie
+## 🎯 Zadanie
 
 Definuj nasledujúce pojmy:
 
@@ -16,7 +16,7 @@ Definuj nasledujúce pojmy:
 
 Pokiaľ si nie si istá, či ich vieš správne definovať z hlavy, no worries! Nižšie sú spomenuté materiály, ktoré môžeš využiť, alebo pobrowsuj internet a zisti viac.
 
-## Odporúčané zdroje
+## 🌐 Odporúčané zdroje
 
 - [Wikipedia stránka o množinách](https://sk.wikipedia.org/wiki/Množina)
 - Sekcia "Symboly teorie množin" na [českej Wikipedia stránke o teórii množín]([https://sk.wikipedia.org/wiki/Teória_množín](https://cs.wikipedia.org/wiki/Teorie_mno%C5%BEin))
