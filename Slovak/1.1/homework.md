@@ -1,4 +1,4 @@
-# Domáca úloha 1.1
+# Na Doma 1.1
 
 ## 📆 Deadline: pred hodinou 09/10/2025
 
