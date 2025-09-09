@@ -22,7 +22,7 @@ Vytvor list floating-point čísel. Uprav list tak, aby každé číslo bolo zao
 Vytvor set s číslami 1 až 20. Odstráň všetky čísla deliteľné 4 a printni zostávajúci set.
 
 ## ⭐ **Úloha 08**
-Vytvor dva sets, `a` a `b`, každý so 7 číslami medzi 0 a 9. Teraz vytvor set `c`, ktorý obsahuje hodnoty z `a` bez hodnôt, ktoré sa tiež vyskytujú v `b`. (Hint: Spomeň si na (https://www.w3schools.com/python/python_operators.asp)[set operations].)
+Vytvor dva sets, `a` a `b`, každý so 7 číslami medzi 0 a 9. Teraz vytvor set `c`, ktorý obsahuje hodnoty z `a` bez hodnôt, ktoré sa tiež vyskytujú v `b`. (Hint: Spomeň si na [set operations](https://www.w3schools.com/python/python_operators.asp).)
 
 ## ⭐ **Úloha 09**
 Vytvor variable `day_idx` s hodnotou medzi 1 a 365. Použi control flows na určenie toho, ktorý deň v týždni to je. (Hint: Zváž ako vieš využiť modulo operátor pri hľadaní vzoru.)
