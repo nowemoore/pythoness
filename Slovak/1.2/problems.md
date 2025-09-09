@@ -1,4 +1,4 @@
-# Úlohy na hodinu
+# Na hodinu
 
 ## ⭐ **Úloha 01**
 Použi control flows na printnutie svojho mena presne 11 krát.
