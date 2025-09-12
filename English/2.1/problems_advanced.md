@@ -10,7 +10,7 @@ Write a function `roman_to_int()` that converts Roman numerals to integers.
 Write a function `word_break()` that takes in a word and a dictionary of words and returns True if the provided word can be segmented into dictionary words (e.g. if the input string is `butterfly` and the input dictionary contains `butter` and `fly`, the function should yield `True`).
 
 ## ⭐ **Task 04**
-Create a function `spiral_matrix()` that takes in an integer generates an n*n matrix (i.e. a list of lists of numbers) filled with numbers 1 to n^2 in spiral order (starting in the middle).
+Create a function `spiral_matrix()` that takes in an integer `n` and generates an n*n matrix (i.e. a list of lists of numbers) filled with numbers 1 to n^2 in spiral order (starting in the middle).
 
 ## ⭐ **Task 05**
 Create a function `matrix_rotation()` that takes in a matrix and an integer `k` and rotates this matrix 90 degrees clockwise k times.
