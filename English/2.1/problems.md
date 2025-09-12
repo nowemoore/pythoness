@@ -57,7 +57,7 @@ Write a function `remove_nth_character()` that takes in a string and an integer 
 Write a function `find_missing_number()` that takes in a list of integers from 1 to n with one number missing, and returns the missing number. The list is not necessarily sorted.
 
 ## ⭐ **Task 20**
-Write a function `anagram_groups()` that considers a list of words and returns a dictionary of anagrams, where the key is the alphabetical representative (e.g. `{"aet": ["eat", "tea", "ate"], "ab": ["tab", "bat"]}`).
+Write a function `anagram_groups()` that considers a list of words and returns a dictionary of anagrams, where the key is the alphabetical representative (e.g. `{"aet": ["eat", "tea", "ate"], "ab": ["ab", "ba"]}`).
 
 ## ⭐ **Task 21**
 Create a function `sort_by_frequency()` that takes in a list of elements and returns a list sorted by frequency of occurrence (most frequent first). (Hint: think about how you want to deal with ties.) 
