@@ -16,8 +16,13 @@ Write a function `fibonacci()` that takes in an interger `n` and returns the `n`
 Create a recursive function `gcd()` that finds and returns the greatest common divisor of any two input integers. (Hint: consider using Euclid's algorithm.)
 
 ## ⭐ **Task 06**
-Create a function `validate_email` that returns `True` iff an input string contains exactly one @, at least one dot after @, and no spaces. 
+Create a function `validate_email()` that returns `True` iff an input string contains exactly one @, at least one dot after @, and no spaces. 
 
 ## ⭐ **Task 07**
-Write a function `anagram_groups` that considers a list of words and returns a dictionary of anagrams, where the key is the alphabetical representative (e.g. {"aet": ["eat", "tea", "ate"], "ab": ["tab", "bat"]}).
+Write a function `anagram_groups()` that considers a list of words and returns a dictionary of anagrams, where the key is the alphabetical representative (e.g. `{"aet": ["eat", "tea", "ate"], "ab": ["tab", "bat"]}`).
+
+## ⭐ **Task 08**
+Create a function `names_alphabetical()` that takes in a person's name (you don't know how many middle names they provide) and returns all parts of their name in the alphabetic order.
+
+## ⭐ **Task 09**
 
