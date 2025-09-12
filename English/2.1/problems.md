@@ -46,6 +46,6 @@ Create a function `shift_string()` that takes in a string and an integer `n`, an
 Write a function `find_second_largest()` that takes in a list of numbers and returns the second largest number. (Hint: handle a list of all values equal.)
 
 ## ⭐ **Task 15**
-Write a function `binary_to_decimal()` that takes in a decimal value and returns its binary equivalent. (Learn how to convert decimals to binary numbers [here](https://www.bbc.co.uk/bitesize/guides/zd88jty/revision/3).)
+
 
 
