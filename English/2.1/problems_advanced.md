@@ -14,3 +14,6 @@ Create a function `spiral_matrix()` that takes in an integer `n` and generates a
 
 ## ⭐ **Task 05**
 Create a function `matrix_rotation()` that takes in a matrix and an integer `k` and rotates this matrix 90 degrees clockwise k times.
+
+## ⭐ **Task 06**
+Write a function `binary_to_decimal()` that takes in a decimal value and returns its binary equivalent. (Learn how to convert decimals to binary numbers [here](https://www.bbc.co.uk/bitesize/guides/zd88jty/revision/3).)
