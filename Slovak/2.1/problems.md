@@ -1,4 +1,4 @@
-# Na hodine
+# Na hodinu
 ## ⭐ **Úloha 01**
 Napíš funkciu `greet()`, ktorá berie meno ako argument a vypíše `"Hello, [meno]!"`. Otestuj ju so svojím vlastným menom.
 
