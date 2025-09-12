@@ -14,3 +14,5 @@ Vlastnými slovami deifnuj nasledujúce pojmy:
 - [ITnetwork.sk](https://www.itnetwork.sk/python/zaklady/python-tutorial-funkcie-a-vynimky) pre viac o funkciách
 - [Python kapitola o funkciách](https://python2016-sphinx.readthedocs.io/sk/latest/20.html) pre viac info o funkciách a parametroch
 - [ITnetwork.sk kapitola o rekurzii](https://www.itnetwork.sk/navrh/algoritmy/algoritmy-rekurzie/uvod-do-rekurzie) pre viac info o rekurzii
+
+Ako vždy, nemusíš sa nutne držať len hore spomenutých zdrojov, a kľudne hľadaj odpovede tak, ako to vyhovuje tebe.
