@@ -57,7 +57,7 @@ Napíš funkciu `remove_nth_character()`, ktorá berie string a integer n, a vr�
 Napíš funkciu `find_missing_number()`, ktorá berie list integerov od 1 do n s jedným chýbajúcim číslom, a vráti chýbajúce číslo. (List nemusí byť zoradený.)
 
 ## ⭐ **Úloha 20**
-Napíš funkciu `anagram_groups()`, ktorá berie list slov a vráti dictionary anagramov, kde key je abecedne zoradený reprezentant (napr. `{"aet": ["eat", "tea", "ate"], "ab": ["tab", "bat"]}`).
+Napíš funkciu `anagram_groups()`, ktorá berie list slov a vráti dictionary anagramov, kde key je abecedne zoradený reprezentant (napr. `{"aet": ["eat", "tea", "ate"], "ab": ["ab", "ba"]}`).
 
 ## ⭐ **Úloha 21**
 Vytvor funkciu `sort_by_frequency()`, ktorá berie list elementov a vráti list zoradený podľa frekvencie výskytu (najčastejšie prvé). (Tip: premysli si, ako chceš riešiť prípady, keď sa slová vyskytujú toľko isto krát.)
