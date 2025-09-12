@@ -1,4 +1,4 @@
-# Úlohy na hodinu
+# Na hodinu
 
 ## ⭐ **Úloha 01**
 Vytvor novú repository s aspoň jedným `.py` a jedným `.txt` súborom cez VSCode a nahraj ju na GitHub.
