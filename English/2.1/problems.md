@@ -40,12 +40,27 @@ Create a function `merge_lists(`) that takes in exactly two sorted lists of inte
 Create a function `find_common_elements()` that takes in two lists and returns a list of elements that appear in both lists.
 
 ## ⭐ **Task 13**
-Create a function `shift_string()` that takes in a string and an integer `n`, and returns the string shifted by n positions to the left. (Hint: handle cases where n is larger than string length.)
+Create a function `ceasar_cipher()` that takes in a string and an integer `n`, and returns the string shifted by n positions to the left. (Hint: handle cases where n is larger than string length.)
 
 ## ⭐ **Task 14**
 Write a function `find_second_largest()` that takes in a list of numbers and returns the second largest number. (Hint: handle a list of all values equal.)
 
 ## ⭐ **Task 15**
+Create a function `count_words_by_length()` that takes in a sentence and returns a dictionary where keys are word lengths and values are counts of words with that length.
 
+## ⭐ **Task 16**
+Write a function `find_missing_number()` that takes in a list of integers from 1 to n with one number missing, and returns the missing number. The list is not necessarily sorted.
+
+## ⭐ **Task 17**
+Write a function `remove_nth_character()` that takes in a string and an integer n, and returns the string with every nth character removed. Handle cases where n is larger than string length.
+
+## ⭐ **Task 18**
+Create a function `sort_by_frequency()` that takes in a list of elements and returns a list sorted by frequency of occurrence (most frequent first). (Hint: think about how you want to deal with ties.)
+
+## ⭐ **Task 19**
+Create a function `leap_year_check()` that takes in a year and returns True if it's a leap year. 
+
+## ⭐ **Task 19**
+Create a function `hours_to_hms()` that takes in a decimal number of hours and converts it to hours:minutes:seconds format. 
 
 
