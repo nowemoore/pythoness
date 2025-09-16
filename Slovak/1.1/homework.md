@@ -14,9 +14,11 @@ Definuj nasledujúce pojmy:
 - *difference* (rozdiel)
 - *symmetric difference* (symetrický rozdiel)
 
-Pokiaľ si nie si istá, či ich vieš správne definovať z hlavy, no worries! Nižšie sú spomenuté materiály, ktoré môžeš využiť, alebo pobrowsuj internet a zisti viac.
+Priprav si 3 otázky ohľadom hore spomenutých pojmov. Tieto otázky by mali byť špecifické a mali by sa sústrediť na nedostatky alebo medzery, na ktoré si narazila pri hľadaní definícii.
 
 ## 🌐 Odporúčané zdroje
+
+Pokiaľ si nie si istá, či ich vieš správne definovať z hlavy, no worries! Nižšie sú spomenuté materiály, ktoré môžeš využiť, alebo pobrowsuj internet a zisti viac. 
 
 - [Wikipedia stránka o množinách](https://sk.wikipedia.org/wiki/Množina)
 - Sekcia "Symboly teorie množin" na [českej Wikipedia stránke o teórii množín]([https://sk.wikipedia.org/wiki/Teória_množín](https://cs.wikipedia.org/wiki/Teorie_mno%C5%BEin))
