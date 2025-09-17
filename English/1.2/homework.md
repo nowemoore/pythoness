@@ -10,6 +10,8 @@ Define the following terms:
 - _argument_
 - _recursion_
 
+Prepare 3 questions regarding the aforementioned terms. Your questions should be specific and focus on gaps and uncertainties you ran into while looking for definitions.
+
 ### 🌐 Recommended resources
 - [GeeksforGeeks page on functions](https://www.geeksforgeeks.org/c/c-functions/) to learn more about functions in computer science
 - [Wikipedia page onfFunctions](https://en.wikipedia.org/wiki/Function_(mathematics)) to learn about functions on a more abstract level
