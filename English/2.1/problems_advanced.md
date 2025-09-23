@@ -30,4 +30,7 @@ Write a function `word_lchange`(begin_word, end_word, word_list) that finds the 
 ## ⭐ **Task 10**
 Write a function `compress_string(s)` that takes in a string of lowercase letters and returns a string with every unique character in a sequence followed by the number of times this character occurs (e.g. returns `"a3b2c4"` for the input of `"aaabbcccc"`).
 
+## ⭐ **Task 11**
+Write a function `nearest_char` that takes in a long string `str`, a character `char`, and a position index `i` and outputs the position index of the closest `char` to position `i` in string.
+
 
