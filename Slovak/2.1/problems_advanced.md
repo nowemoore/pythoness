@@ -1,4 +1,4 @@
-## Pre pokročilé
+# Pre pokročilé
 
 ## ⭐ **Úloha 01**
 Vytvor funkciu `k_closest_points()`, ktorá berie `x` a `y` koordináty 2D roviny a nájde vzdialenosť k počiatku.
