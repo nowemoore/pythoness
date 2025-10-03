@@ -17,3 +17,5 @@ Design a class `ParkingLot` that has a specified number of `ParkingSlot` objects
 
 ## ⭐ Task 06
 Create a "guess the number" game where the computer picks a random number between 1 and 100. A player has 7 attempts. After each guess, tell them if they're "very cold" (20+ away), "cold" (10-19 away), "warm" (5-9 away), or "hot" (1-4 away). Use while loops and break/continue appropriately. (Tip: Use Python [input()](https://www.w3schools.com/python/python_user_input.asp) to collect input from players.)
+
+## ⭐ Task 07
