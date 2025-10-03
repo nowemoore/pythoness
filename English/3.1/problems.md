@@ -19,3 +19,13 @@ Design a class `ParkingLot` that has a specified number of `ParkingSlot` objects
 Create a "guess the number" game where the computer picks a random number between 1 and 100. A player has 7 attempts. After each guess, tell them if they're "very cold" (20+ away), "cold" (10-19 away), "warm" (5-9 away), or "hot" (1-4 away). Use while loops and break/continue appropriately. (Tip: Use Python [input()](https://www.w3schools.com/python/python_user_input.asp) to collect input from players.)
 
 ## ⭐ Task 07
+Create a `Tournament` class for Rock-Paper-Scissors, which enrolls 6 players with a different strategy each (e.g. always playes paper, always plays rock, plays uniformly random moves, etc.; be creative!). Implement tournament where each player plays 20 games against every other player. Show interesting statistics about the games.
+
+## ⭐ Task 08
+Create an `Elevator` class for a 20-floor building. Track current floor, direction, and a queue of requested floors (i.e. where people called the elevator from). Implement an algorithm to efficiently serve requests (consider moving in one direction before reversing). Demonstrate that your algorithm works as intended using tests.
+
+## ⭐ Task 09
+Create a `Auction` class for a silent auction. `Bidder` objects can place bids on `Item` objects. Each item has a starting price and minimum increment. Implement auto-bidding where bidders have max budgets and automatically counter-bid up to their limit. Simulate an auction with 5 items and 8 bidders.
+
+## ⭐ Task 10
+Build a `Supermarket` class with a set number of checkout lanes. Create a `Customer` class with a randomly generated number of items (1-30), where each item takes 2 seconds to scan. Implement a queue system where customers get assigned to the shortest queue. Simulate 100 customers checking out and compare average wait times for different numbers of lanes (2, 3, 4, 5).
