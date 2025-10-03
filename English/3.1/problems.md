@@ -14,3 +14,6 @@ Create a `Dice` class with an attribute for the number of sides (default 6). Add
 
 ## ⭐ Task 05
 Design a class `ParkingLot` that has a specified number of `ParkingSlot` objects. Simulate 10 cars driving in and out of this parking lot over time, with each car staying for a randomly generated number of minutes (within a reasonable range). Each hour (0-1, 1-2, 2-3, etc.) is charged at a different rate. Demonstrate that your class works on tests. (Hint: consider what data structure would be good for holding and keeping track of all your parking slots.)
+
+## ⭐ Task 06
+Create a "guess the number" game where the computer picks a random number between 1 and 100. A player has 7 attempts. After each guess, tell them if they're "very cold" (20+ away), "cold" (10-19 away), "warm" (5-9 away), or "hot" (1-4 away). Use while loops and break/continue appropriately. (Tip: Use Python [input()](https://www.w3schools.com/python/python_user_input.asp) to collect input from players.)
