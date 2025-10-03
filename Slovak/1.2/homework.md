@@ -12,7 +12,7 @@ Vlastnými slovami deifnuj nasledujúce pojmy:
 
 Priprav si 3 otázky ohľadom hore spomenutých pojmov. Tieto otázky by mali byť špecifické a mali by sa sústrediť na nedostatky alebo medzery, na ktoré si narazila pri hľadaní definícii.
 
-### 🌐 Recommended resources
+### 🌐 Odporúčané zdroje
 - [ITnetwork.sk](https://www.itnetwork.sk/python/zaklady/python-tutorial-funkcie-a-vynimky) pre viac o funkciách
 - [Python kapitola o funkciách](https://python2016-sphinx.readthedocs.io/sk/latest/20.html) pre viac info o funkciách a parametroch
 - [ITnetwork.sk kapitola o rekurzii](https://www.itnetwork.sk/navrh/algoritmy/algoritmy-rekurzie/uvod-do-rekurzie) pre viac info o rekurzii

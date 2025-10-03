@@ -1,4 +1,4 @@
-# Homework Assignment 2.1
+# Homework Assignment 2.2
 
 ### 📆 Due Date: before class on 21/10/2025
 

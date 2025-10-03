@@ -10,7 +10,7 @@ Vlastnými slovami deifnuj nasledujúce pojmy:
 
 Priprav si 3 otázky ohľadom hore spomenutých pojmov. Tieto otázky by mali byť špecifické a mali by sa sústrediť na nedostatky alebo medzery, na ktoré si narazila pri hľadaní definícii.
 
-### 🌐 Recommended resources
+### 🌐 Odporúčané zdroje
 - [Nextech článok](https://www.nextech.sk/a/Python--Kniznice-Pythonu----33) pre viac o knižniciach
 - [Nauč se Python! článok](https://naucse.python.cz/2019/brno-jaro-2019-ut/beginners/debug/) pre viac o debuggingu
 
