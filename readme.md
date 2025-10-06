@@ -34,4 +34,4 @@ Toto je 8-týždňový úvodný kurz pre ženy, ktoré sa chcú naučiť Python 
 
 - 📅 **Týždenné stretnutia:** Kurz sa stretáva 2-krát týždenne po 3 hodiny počas prvých 6 týždňov kurzu. Všetky stretnutia budú pozostávať z krátkeho úvodu do konceptov, detailných diskusií, a veľa hands-on aktivít.
 - 📝 **Týždenná príprava:** Účastníčky by si pred každým stretnutím mali nájsť čas na krátku (<30min) prípravu na skupinovú diskusiu počas prvých 6 týždňov kurzu (od 2. stretnutia).
-- 🎯 **Capstone Project:** V zvyšných 2 týždňoch budú účastníčky mať príležitosť pracovať na vlastnom capstone projecte, ktorý bude kombinovať aspoň 3 zo 6 konceptov z predchádzajúcich týždňov.
+- 🎯 **Capstone Project:** V zvyšných 2 týždňoch budú účastníčky mať príležitosť pracovať na vlastnom capstone projekte, ktorý by mal kombinovať aspoň 3 zo 6 konceptov z predchádzajúcich týždňov.
