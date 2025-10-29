@@ -1,4 +1,4 @@
-# 🧩 Premýšľanie o Záverečných Projektoch
+# 🧩 Ako rozmýšľať o záverečných projektoch
 
 Vstupuješ do fázy kurzu, kde sa začneš presúvať **z "naučila som sa nejaké koncepty v Pythone" na "viem definovať problém a použiť tieto koncepty na jeho riešenie"**. Mám aj nejaké dobré správy: Takmer každý problém môže byť problémom na programovanie!
 
