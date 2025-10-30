@@ -1,0 +1,21 @@
+Date,Type,Item,Quantity,Unit Price ($),Notes
+2025-11-01,Purchase,Bread,100,2.50,Standard supplier delivery
+2025-11-01,Sale,Bread,25,4.99,Morning rush sales
+2025-11-01,Sale,Milk,30,3.99,
+2025-11-02,Purchase,Milk,120,2.80,Dairy farm shipment
+2025-11-02,Sale,Bread,30,4.99,
+2025-11-02,Sale,Egg,40,0.40,"Sold by unit, not dozen"
+2025-11-03,Purchase,Apple,300,0.30,Seasonal stock refill
+2025-11-03,Sale,Milk,35,3.99,
+2025-11-03,Sale,Bread,20,4.99,
+2025-11-04,Purchase,Egg,200,0.25,Weekly crate order
+2025-11-04,Sale,Apple,50,0.60,
+2025-11-04,Sale,Egg,55,0.40,
+2025-11-05,Sale,Milk,45,3.99,Afternoon traffic
+2025-11-05,Sale,Apple,60,0.60,
+2025-11-05,Purchase,Bread,150,2.50,Urgent mid-week resupply
+2025-11-06,Sale,Bread,40,4.99,
+2025-11-06,Sale,Egg,65,0.40,
+2025-11-06,Purchase,Apple,100,0.30,Small local grower batch
+2025-11-07,Sale,Milk,50,3.99,End-of-week demand
+2025-11-07,Sale,Apple,75,0.60,
