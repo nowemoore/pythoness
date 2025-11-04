@@ -11,7 +11,7 @@ Zopakuj si dole spomenuté štatistické pojmy. Vlastnými slovami vysvetli, čo
 - *mód*
 - *percentil*
 
-### 🎯 ZadanieL časť II
+### 🎯 Zadanie: časť II
 
 Skús vlastnými slovami definovať tieto pojmy:
 - *grouping*
