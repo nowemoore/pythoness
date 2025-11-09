@@ -3,7 +3,7 @@
 ### 📆 Deadline: pred hodinou 11/11/2025
 
 
-### 🎯 Zadanie: 
+### 🎯 Zadanie: časť I
 
 1) Vyber is databázu z Kaggle a stiahni si ju cez svoj lokálny Terminál.
 2) Prekonvertuj svoj `.csv` súbor na datafram s použitím `pandas`.
@@ -15,3 +15,21 @@
     - spočítaj, koľko jedinečných skupín existuje vo vybranom stĺpci
     - zisti hodnotu konkrétnej bunky pomocou jej indexu riadku a stĺpca
 4) Vizualizuj svoje dáta pomocou knižnice `plotly` (referuj späť na materiály z 4.2).
+
+### 🎯 Zadanie: časť II
+
+Skús vlastnými slovami definocať nasledujúce termíny:
+- *časová komplexita* (*time complexity*) (to isté ako *big O*)
+- *array*
+- *queue*
+- *stack*
+- *heap*
+- *tree*
+- *binary tree*
+- *hash map*
+- *sorting algorithm*
+
+### 🌐 Odporúčané zdroje
+- [Tento článok](https://www.geeksforgeeks.org/python/python-data-structures/) o dátových štruktúrach v Pythone
+- [Toto cool video](https://www.youtube.com/watch?v=O9v10jQkm5c) o dátových štruktúrach od Sajjaada
+- [This video](https://www.youtube.com/watch?v=GMV7ycKZ-mM&t=36s) na triediace algoritmy od Boot Dev
